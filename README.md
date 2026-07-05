@@ -1,6 +1,8 @@
 # Sammie Roto Flame Integration Script
 
 This script integrates Autodesk Flame with Sammie Roto, enabling the one-click export of selected clips into a temporary workflow file for processing in Sammie Roto.
+Sammie Roto is an amazing tool built by Zarxrax, you can find it here https://github.com/Zarxrax/Sammie-Roto-2
+
 
 It adds a custom Flame Media Panel action: **Scripts → Sammie Roto it**.
 
